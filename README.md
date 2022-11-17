@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 
 ## Born 2 be root
 [![cosvaldo's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clal41ydp00350gmndds1fjrl/project/2867590)](https://github.com/JaeSeoKim/badge42)
+
+## Some of my skills (in no particular order)
+[![Some of my skills](https://skillicons.dev/icons?i=ai,bash,bootstrap,c,cmake,css,git,github,html,linux,md,mysql,ps,pr,py,rasperrypi,regex,sketchup,vim,vscode,wordpress)](https://skillicons.dev)
