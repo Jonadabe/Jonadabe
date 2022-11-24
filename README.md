@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 
 </details><!-- Ring 0 -->
     
-### Ring 1
+### Ring 1 (now)
 <details>
 	<summary>more details</summary>
 
@@ -118,6 +118,16 @@ Here are some ideas to get you started:
 [![cosvaldo's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clal41ydp00350gmndds1fjrl/project/2867592)](https://github.com/JaeSeoKim/badge42)
 
 </details><!-- Ring 1 -->
+
+### Ring 2
+
+### Ring 3
+
+### Ring 4
+
+### Ring 5
+
+### Ring 6
 
 </details><!-- 42 Cursus -->
 
