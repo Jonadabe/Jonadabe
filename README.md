@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <details>
 	<summary>more details</summary>
 
-[![cosvaldo's 42 stats](https://badge42.vercel.app/api/v2/clal41ydp00350gmndds1fjrl/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+[![cosvaldo's 42 stats](https://badge42.vercel.app/api/v2/clal41ydp00350gmndds1fjrl/stats?cursusId=9&coalitionId=111)](https://github.com/JaeSeoKim/badge42)
 
 ### C piscine Shell 00
 [![cosvaldo's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/clal41ydp00350gmndds1fjrl/project/2766611)](https://github.com/JaeSeoKim/badge42)
