@@ -118,7 +118,7 @@ Here are some ideas to get you started:
 
 </details><!-- Ring 0 -->
     
-### Ring 1 (now)
+### Ring 1
 <details>
 	<summary>more details</summary>
 
@@ -133,8 +133,15 @@ Here are some ideas to get you started:
 
 </details><!-- Ring 1 -->
 
-### Ring 2
+### Ring 2 (now)
+<details>
+	<summary>more details</summary>
 
+#### Push swap
+![cosvaldo's 42 push_swap Score](https://badge42.vercel.app/api/v2/clal41ydp00350gmndds1fjrl/project/3021595)
+
+</details><!-- Ring 2 -->
+	
 ### Ring 3
 
 ### Ring 4
