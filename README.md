@@ -156,7 +156,7 @@ Here are some ideas to get you started:
 <details>
   <summary>more details</summary>
 
-![Some of my skills](https://skillicons.dev/icons?i=ai,bash,bootstrap,c,cmake,css,git,github,html,linux,md,mysql,ps,pr,py,rasperrypi,regex,sketchup,vim,vscode,wordpress)
+![Some of my skills](https://skillicons.dev/icons?i=ai,bash,bootstrap,c,cmake,css,discord,dart,flutter,git,github,html,linux,md,mysql,ps,pr,py,raspberrypi,regex,sketchup,vim,vscode,wordpress)
 
 <details>
 	<summary>source</summary>
