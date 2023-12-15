@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<!-- <b>Installation Instructions</b> -->
 
 # 42lisboa.com
 
@@ -78,7 +76,7 @@ Here are some ideas to get you started:
 #### C Piscine Final Exam
 ![cosvaldo's 42 C Piscine Final Exam Score](https://badge42.vercel.app/api/v2/clal41ydp00350gmndds1fjrl/project/2807253)
 
-</details><!-- C Piscine exams -->
+</details>
 
 ### C Piscine rushs
 <details>
@@ -93,8 +91,8 @@ Here are some ideas to get you started:
 #### C Piscine Rush 02
 ![cosvaldo's 42 C Piscine Rush 02 Score](https://badge42.vercel.app/api/v2/clal41ydp00350gmndds1fjrl/project/2799794)
 
-</details><!-- C Piscine rushs -->
-</details><!-- C Piscine -->
+</details>
+</details>
 
 ## 42 Cursus
 <details>
@@ -116,7 +114,7 @@ Here are some ideas to get you started:
 #### 42 Libft
 ![cosvaldo's 42 Libft Score](https://badge42.vercel.app/api/v2/clal41ydp00350gmndds1fjrl/project/2848806)
 
-</details><!-- Ring 0 -->
+</details>
     
 ### Ring 1
 <details>
@@ -131,7 +129,7 @@ Here are some ideas to get you started:
 #### Get next line
 ![cosvaldo's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clal41ydp00350gmndds1fjrl/project/2867593)
 
-</details><!-- Ring 1 -->
+</details>
 
 ### Ring 2 (now)
 <details>
@@ -140,7 +138,7 @@ Here are some ideas to get you started:
 #### Push swap
 ![cosvaldo's 42 push_swap Score](https://badge42.vercel.app/api/v2/clal41ydp00350gmndds1fjrl/project/3021595)
 
-</details><!-- Ring 2 -->
+</details>
 	
 ### Ring 3
 
@@ -150,9 +148,11 @@ Here are some ideas to get you started:
 
 ### Ring 6
 
-</details><!-- 42 Cursus -->
+</details>
+-->
+<!-- <b>Installation Instructions</b> -->
 
-## Some of my skills (in no particular order)
+# Some of my skills (in no particular order)
 <details>
   <summary>more details</summary>
 
